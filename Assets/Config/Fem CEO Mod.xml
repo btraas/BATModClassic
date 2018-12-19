@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Fem CEO Mod - Displays female great people   -->
+<mod id="Fem CEO Mod" module="Fem CEO Mod">
+	<event type="unitBuilt" function="onUnitBuilt"/>
+<!--	<event type="BeginPlayerTurn" function="onBeginPlayerTurn"/>  -->
+	
+</mod>

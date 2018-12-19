@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- BAT Starting Popup - Shows BAT info popup on new game start. Author: The_J, ported by Lemon Merchant -->
+<mod id="BATPop" module="BATPop">
+	<event type="GameStart" function="onGameStart"/>
+</mod>

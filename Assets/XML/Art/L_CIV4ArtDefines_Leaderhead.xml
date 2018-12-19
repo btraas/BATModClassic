@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Bart Muzzin (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Leaderhead art path information -->
+<Civ4ArtDefines xmlns="x-schema:L_CIV4ArtDefinesSchema.xml">
+	<LeaderheadArtInfos>
+		<LeaderheadArtInfo>
+			<Type>ART_DEF_LEADER_BARBARIAN</Type>
+			<Button>,Art/interface/LeaderHeads/Btn_LH_Mongol_Genghis.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,6,12</Button>
+			<NIF>art/LeaderHeads/L/catherine.nif</NIF>
+			<KFM>art/LeaderHeads/L/catherine.kfm</KFM>
+			<NoShaderNIF>art/LeaderHeads/L/catherine_noshader.nif</NoShaderNIF>
+			<BackgroundKFM>art/LeaderHeads/L/catherine_bg.kfm</BackgroundKFM>
+		</LeaderheadArtInfo>
+	</LeaderheadArtInfos>
+</Civ4ArtDefines>

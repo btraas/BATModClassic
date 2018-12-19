@@ -1,0 +1,87 @@
+This is BAT 4.1.
+
+And it still won't run on Civ5.
+
+
+This is a repair release, with a couple of fixes, but essentially it's BAT 4.0.  See the readme file for more information.
+
+
+
+In this version of BAT, you will find:
+
+- *NEW* The BUG Mod 4.5 - by the knowledgeable members of the BUG Team (That means not me.)	
+	
+- *NEW* The BUG DLL (BULL) 1.4 - Also by the knowledgeable members of the BUG Team (That also means not me.  I leave the hard work to the pros.)
+- BULL includes:
+	- The Unofficial Patch 1.70  (By Roamty)
+	- Sentry actions
+	- Global Warming Mod
+	- Governor builds workers
+	- Fractional Trade Routes
+	- Female Great People (Ok, I helped a little with BULL.)
+	- Anything else that EF and Ruff have thrown in and not told me about.
+	
+Mods included in BAT 4.1:
+[SPOILER]
+•Varietas Delectat 9.2 (Cheetah Edition) by Avain
+•Cultural Diversity 1.1 by Chugginator (Optimized by Avain.)
+•Cultural Citystyles 0.99 by GeoModder (Optimized by Avain.)
+•Actual Quotes - Better Diplomacy Text by Willowmound
+•Better Flags & Buttons by KingKongTR
+•Improved Graphics Leaderheads by Chuginator
+•Blue Marble 4.50 by Kai Fiebach
+•Advanced Combat Odds by Piece of Mind
+•Events with Images Mod by asioasioasio, Renegade Chicken and EmperorFool.  Images by Arian.
+•Female Unit Graphics (Great People, CEO's and Missionaries) by SaibotLieh.  Code by Lemon and EF.
+•Lemon's Movie Mod by Lemon Merchant, with slices, dices, and interpolations of music from Cybrxkhan's Diplomacy Music Packs.  Used with his gracious permission.
+	A note about the movie mod:
+	[SPOILER] These are little movies for the Shrines and National Wonders.  The available ones for download were very good, but so darn long, and I felt that they broke the flow of the game.  I created new ones with an individual length of 15 seconds each, with new music, so that they would be a little less obtrusive.  The music has also had the volume leveled out so that it's closer to the volume levels in the game. [/SPOILER]
+[/SPOILER]
+
+
+•*NEW* OrionVeteran and Roamty's Great Person Mod (Bare Bones).  The pictures pack will be a separately available download.
+•*NEW* Era Movies by Lemon Merchant.
+•*NEW* Lemon's Spy Mod by Lemon Merchant.  A selectable option to have spies return to the nearest city, rather than the capital.  NOTE THAT THIS DOES ALTER GAMEPLAY.  THAT'S WHY IT'S AN OPTION!!
+•*NEW* Peakblend mountain textures, icepack textures, and new crops by Kissa
+•*NEW* Water Mod 2.0 by Nitram15, with blue water textures.  With files from cool3a2.
+•*NEW* New aspect ratio load screens by Lemon Merchant.  The load screens now render better on widescreen monitors. (I can't do anything about the Baba Yetu screen,  unfortunately).
+•*NEW* Messages Mod from The_J. Displays messages when wonders are captured or destroyed.
+
+
+
+Developers:
+Alerum68
+Dresden
+EmperorFool
+NikNaks
+ruff_hi
+Lemon Merchant
+
+Translators:
+Deutsch - The Doc
+Espanol - Coming soon!
+Français - Falc
+Italiano - Cammagno 
+
+Special thanks:
+[SPOILER]
+- EmperorFool, for his advice and support, and for getting me into this mess.
+- ruff_hi for his always kind, if occasionally incomprehensible words.
+- Alerum68 for setting the BAT quality bar so high.
+- Avain and SaibotLieh (and the people they credit) for their advice and assistance in porting their mods, and for making them in the first place.
+- Afforess, Fuyu, Baldyr, Smeagolheart for their generous help when it was needed.
+- Balnor for helping to fix the CTD when going back to the main menu while in game.
+- Gurn Blanston and Jill for the endless testing that they've done.
+- The patient fans of BAT who have put up with some errors, and have been kind enough to let us know about them, and make suggestions.
+
+[/SPOILER]
+
+As always, if you find errors or issues, please post them (constructively please) in the BAT Errata thread.
+
+
+Known Errata: (To be addressed in a patch)
+
+1. Some of the buttons are still blurry at some resolutions.
+2. Some buttons are wrong for the type of unit shown.
+3. The Persian Musketman is headless.  Something in Varietas Delectat is causing this and I'm trying to fix it.
+4. There is an error in the flag hover.  BULL says it's still 1.3, when in fact it is version 1.4. 

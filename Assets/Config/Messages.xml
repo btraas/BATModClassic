@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- The BAT Mod - extra goodies -->
+<!-- Messages.  Displays a message when a wonder is captured or destroyed  Author The_J, ported by Lemon Merchant -->
+<mod id="Messages" module="Messages">
+	
+	<event type="cityRazed" function="onCityRazed"/>
+	<event type="cityAcquiredAndKept" function="onCityAcquiredAndKept"/>
+</mod>

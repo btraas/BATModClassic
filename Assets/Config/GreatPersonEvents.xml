@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- The BAT Mod - extra goodies -->
+<!-- GreatPersonEvents.  Shows a splash screen when a GP is born.  Authors: OrionVeteran and Roamty, ported by Lemon Merchant -->
+<mod id="GreatPersonEvents" module="GreatPersonEvents">
+	
+	<event type="greatPersonBorn" function="onGreatPersonBorn"/>
+</mod>

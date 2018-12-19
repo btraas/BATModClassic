@@ -1,0 +1,9 @@
+
+// *** Control Bitmap Theme file
+
+// Set the resource 
+resource_path	"D:/Users/Admin/Documents/My Games/Beyond the Sword/MODS/BAT Mod 4.0/Resource";
+
+// Setup common properties
+include			"Resource/Themes/Civ4/Civ4Theme.thm";
+

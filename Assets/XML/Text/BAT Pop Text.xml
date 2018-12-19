@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- BAT starting popup text -->
+
+<!-- (c) 2010 - The BUG Team -->
+
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_MOD_HEADER</Tag>
+		<English>The BAT Mod 4.0 [Build 35-26-36]</English>
+		<French>The BAT Mod 4.0 [Build 35-26-36]</French>
+		<German>The BAT Mod 4.0 [Build 35-26-36]</German>
+		<Italian>The BAT Mod 4.0 [Build 35-26-36]</Italian>
+		<Spanish>The BAT Mod 4.0 [Build 35-26-36]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_TEXT_1</Tag>
+		<English>Portions copyright 2013 by The BUG Team.</English>
+		<French>Portions copyright 2013 by The BUG Team.</French>
+		<German>Portions copyright 2013 by The BUG Team.</German>
+		<Italian>Portions copyright 2013 by The BUG Team.</Italian>
+		<Spanish>Portions copyright 2013 by The BUG Team.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_TEXT_2</Tag>
+		<English>All rights reserved.</English>
+		<French>All rights reserved.</French>
+		<German>All rights reserved.</German>
+		<Italian>All rights reserved.</Italian>
+		<Spanish>All rights reserved.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_TEXT_3</Tag>
+		<English>Hover over your flag to see the build information </English>
+		<French>Hover over your flag to see the build information </French>
+		<German>Hover over your flag to see the build information </German>
+		<Italian>Hover over your flag to see the build information </Italian>
+		<Spanish>Hover over your flag to see the build information </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_TEXT_4</Tag>
+		<English>for the mod and optional enabled components.</English>
+		<French>for the mod and optional enabled components.</French>
+		<German>for the mod and optional enabled components.</German>
+		<Italian>for the mod and optional enabled components.</Italian>
+		<Spanish>for the mod and optional enabled components.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MOD_TEXT_5</Tag>
+		<English>Press CTRL-ALT-O for the Options Menu at any time during the game.</English>
+		<French>Press CTRL-ALT-O for the Options Menu at any time during the game.</French>
+		<German>Press CTRL-ALT-O for the Options Menu at any time during the game.</German>
+		<Italian>Press CTRL-ALT-O for the Options Menu at any time during the game.</Italian>
+		<Spanish>Press CTRL-ALT-O for the Options Menu at any time during the game.</Spanish>
+	</TEXT>
+
+</Civ4GameText>
