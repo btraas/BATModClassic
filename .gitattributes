@@ -1,0 +1,2 @@
+*.FPK filter=lfs diff=lfs merge=lfs -text
+*.fpk filter=lfs diff=lfs merge=lfs -text
